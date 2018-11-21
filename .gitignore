@@ -1,3 +1,6 @@
+# OS generated files #
+######################
+
 # General
 .DS_Store
 .AppleDouble
@@ -5,7 +8,6 @@
 
 # Icon must end with two \r
 Icon
-
 
 # Thumbnails
 ._*
@@ -25,6 +27,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Python #
+##########
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
