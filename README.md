@@ -3,7 +3,7 @@
 Jupyter notebooks by [David Blood](https://twitter.com/davidcblood) used in the data reporting for [Why the world's recycling system stopped working](https://www.ft.com/content/360e2524-d71a-11e8-a854-33d6f82e62f8).
 
 1. [Eurostat exports data](https://nbviewer.jupyter.org/github/ft-interactive/recycling-is-broken-notebooks/blob/master/01-wrangle-eurostat.ipynb)
-2. [US Census Bureau exports data](https://nbviewer.jupyter.org/github/ft-interactive/recycling-is-broken-notebooks/blob/master/02-wrangle-ucsb.ipynb)
+2. [US Census Bureau exports data](https://nbviewer.jupyter.org/github/ft-interactive/recycling-is-broken-notebooks/blob/master/02-wrangle-uscb.ipynb)
 3. [Japan e-Stat exports data](https://nbviewer.jupyter.org/github/ft-interactive/recycling-is-broken-notebooks/blob/master/03-wrangle-estat.ipynb)
 4. [Statistics Canada exports data](https://nbviewer.jupyter.org/github/ft-interactive/recycling-is-broken-notebooks/blob/master/04-wrangle-statscan.ipynb)
 5. [UN Comtrade exports data](https://nbviewer.jupyter.org/github/ft-interactive/recycling-is-broken-notebooks/blob/master/05-wrangle-un-comtrade.ipynb)
